@@ -1,6 +1,6 @@
 # Tatsiana Shuniborova, Minks.
 ![Tatsiana Shuniborova](img/IMG_20200912_120604.jpg "Tatsiana Shuniborova")
-
+****************
 ### **About me** 
 
 
@@ -10,13 +10,14 @@ I learned English a few years ago, and now I am learning this language  again. I
 I like to study and learn something new. I like to work and see the results of my work.
 I have good interpersonal skills and very willing to learn and develop new skills. I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. I don't stop in my development. I am always searching new usefull information and trying to use it.  
 
-
+**************
 ### **Contact information:**
 Phone: +375-29-863-88-11
 E-mail: tashu529@gmail.com
 Telegram: Татьяна
 Discord: ТатьянаШу#2957
 gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github TatyanaShu")
+**********************
 ### **Skills:**
 
 
@@ -29,12 +30,11 @@ gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github Taty
 * Graphic programs (Photoshop, Adobe Illustrator, Figma, Corel Draw, Adobe Animate)
 * Git (Basic)
 
-
 ### **Language**
 + English (A2)
 + Russian (native)
 + Belarussian (native)
-## **Experience**
+
 ### **Education**
 University: Institute of Business of BSU, web-design 2020-2021
 Belarussian State Tecnologycal University, engineer of certification and standardization 2006-2013
