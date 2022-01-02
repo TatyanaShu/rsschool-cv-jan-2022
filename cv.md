@@ -16,7 +16,7 @@ Phone: +375-29-863-88-11
 E-mail: tashu529@gmail.com
 Telegram: Татьяна
 Discord: ТатьянаШу#2957
-gitHub: 
+gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github TatyanaShu")
 ### **Skills:**
 
 
