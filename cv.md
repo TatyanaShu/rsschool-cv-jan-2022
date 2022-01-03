@@ -13,10 +13,20 @@ I have good interpersonal skills and very willing to learn and develop new skill
 **************
 ### **Contact information:**
 Phone: +375-29-863-88-11
+
+
 E-mail: tashu529@gmail.com
+
+
 Telegram: Татьяна
+
+
 Discord: ТатьянаШу#2957
+
+
 gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github TatyanaShu")
+
+
 **********************
 ### **Skills:**
 
@@ -37,8 +47,12 @@ gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github Taty
 
 ### **Education**
 University: Institute of Business of BSU, web-design 2020-2021
+
+
 Belarussian State Tecnologycal University, engineer of certification and standardization 2006-2013
 
+
+****************
 ### **Example code:**
 
 ```
