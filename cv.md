@@ -1,5 +1,7 @@
 # Tatsiana Shuniborova, Minks.
 ![Tatsiana Shuniborova](img/IMG_20200912_120604.jpg "Tatsiana Shuniborova")
+
+
 ****************
 ### **About me** 
 
@@ -9,6 +11,7 @@ When i studied in university i did the project for organization of certification
 I learned English a few years ago, and now I am learning this language  again. I graduated some curses of English as: elementary and pre-intermediate levels. 
 I like to study and learn something new. I like to work and see the results of my work.
 I have good interpersonal skills and very willing to learn and develop new skills. I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. I don't stop in my development. I am always searching new usefull information and trying to use it.  
+
 
 **************
 ### **Contact information:**
