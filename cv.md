@@ -3,6 +3,7 @@
 
 
 ****************
+
 ### **About me** 
 
 
@@ -14,6 +15,7 @@ I have good interpersonal skills and very willing to learn and develop new skill
 
 
 **************
+
 ### **Contact information:**
 Phone: +375-29-863-88-11
 
@@ -31,6 +33,7 @@ gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github Taty
 
 
 **********************
+
 ### **Skills:**
 
 
@@ -49,10 +52,11 @@ gitHub: [TatyanaShu](https://github.com/TatyanaShu?tab=repositories "github Taty
 + Belarussian (native)
 
 ### **Education**
-University: Institute of Business of BSU, web-design 2020-2021
+University: 
 
 
-Belarussian State Tecnologycal University, engineer of certification and standardization 2006-2013
++ Institute of Business of BSU, web-design 2020-2021
++ Belarussian State Tecnologycal University, engineer of certification and standardization 2006-2013
 
 
 ****************
