@@ -1,5 +1,4 @@
 # Tatsiana Shuniborova, Minks.
-![Tatsiana Shuniborova](img/IMG_20200912_120604.jpg "Tatsiana Shuniborova")
 
 
 ****************
