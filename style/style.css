@@ -1,25 +1,46 @@
 body {
     background-color: rgb(240, 240, 240);
     width: 100%;
+    margin: 0;
     /* height: 100vh; */
     /* color: white; */
 }
 header, 
-main {
+main, .container {
     width: 80%;
     margin: auto;
 }
 h1 {
     visibility: hidden;
+    position: absolute;
+    z-index: -100;
 }
 main {
     height: 100%;
     display: flex;
 }
 .navigation ul {
+    width: 80%;
     display: flex;
     list-style: none;
+    justify-content: space-around;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
+.navigation a {
+    margin: 5px 10px
+}
+a, a:hover, a:active {
+    color:rgba(0, 0, 0, 0.705);
+    text-decoration: none;
+    cursor: pointer;
+}
+.navigation li:hover {
+    background: rgba(0, 0, 0, 0.425);
+    color: white;
+}
+
 .navigation {
     width: 100%;
 }
@@ -80,4 +101,23 @@ footer {
 .entral-block > .header-of-part {
     width: 100%;
     background: #292928ce;
+}
+.copyraitefooter a, .copyraitefooter  {
+    color: white;
+    
+} 
+.block-contact {
+    display: flex;
+    justify-content: space-around;
+}
+.copyraitefooter, .github-link {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h2 {
+    border-bottom: solid 2px #292928ce;
+}
+.central-block h4 {
+    background-color: rgba(0, 0, 0, 0.788);
+    color: white;
 }
