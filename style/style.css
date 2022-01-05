@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(240, 240, 240);
+    width: 100%;
+    margin: 0;
+    /* height: 100vh; */
+    /* color: white; */
+}
+header, 
+main, .container {
+    width: 80%;
+    margin: auto;
+}
+h1 {
+    visibility: hidden;
+    position: absolute;
+    z-index: -100;
+}
+main {
+    height: 100%;
+    display: flex;
+}
+.navigation ul {
+    width: 80%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation a {
+    margin: 5px 10px
+}
+a, a:hover, a:active {
+    color:rgba(0, 0, 0, 0.705);
+    text-decoration: none;
+    cursor: pointer;
+}
+.navigation li:hover {
+    background: rgba(0, 0, 0, 0.425);
+    color: white;
+}
+
+.navigation {
+    width: 100%;
+}
+
+.float-left {
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.055);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.float-block {
+    width: 80%;
+    margin: 0 auto;
+    border: solid 2px #000000;
+}
+.block-under-photo {
+    background-color: #292928ce;
+    width: 30%;
+    height: 75%;
+    position: absolute;
+    z-index: -1;
+}
+.photo-person {
+    height: 35vh;
+    width: 100%;
+    position: relative;
+}
+
+.photo {
+    background-image: url("../image/IMG_20200912_120604.jpg");
+    height: 35vh;
+    filter: grayscale(100%);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.block-left {
+    top: -5%;
+    left: -10%;
+}
+.block-right {
+    top: 30%;
+    left: 78%;
+}
+.central-block {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 50%
+}
+footer {
+    background: #292928ce;
+}
+.entral-block > .header-of-part {
+    width: 100%;
+    background: #292928ce;
+}
+.copyraitefooter a, .copyraitefooter  {
+    color: white;
+    
+} 
+.block-contact {
+    display: flex;
+    justify-content: space-around;
+}
+.copyraitefooter, .github-link {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h2 {
+    border-bottom: solid 2px #292928ce;
+}
+.central-block h4 {
+    background-color: rgba(0, 0, 0, 0.788);
+    color: white;
+}
