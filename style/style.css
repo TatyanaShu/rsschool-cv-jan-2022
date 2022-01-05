@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(209, 206, 206);
+    background-color: rgb(240, 240, 240);
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     /* color: white; */
 }
 header, 
@@ -9,19 +9,75 @@ main {
     width: 80%;
     margin: auto;
 }
+h1 {
+    visibility: hidden;
+}
+main {
+    height: 100%;
+    display: flex;
+}
 .navigation ul {
     display: flex;
     list-style: none;
 }
 .navigation {
     width: 100%;
-
 }
 
 .float-left {
-    float: left;
-    background-color: rgb(13, 10, 51);
-    height: 100vh;
-    width: 40%;
-    color: #ffffff;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.055);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.float-block {
+    width: 80%;
+    margin: 0 auto;
+    border: solid 2px #000000;
+}
+.block-under-photo {
+    background-color: #292928ce;
+    width: 30%;
+    height: 75%;
+    position: absolute;
+    z-index: -1;
+}
+.photo-person {
+    height: 35vh;
+    width: 100%;
+    position: relative;
+}
+
+.photo {
+    background-image: url("../image/IMG_20200912_120604.jpg");
+    height: 35vh;
+    filter: grayscale(100%);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.block-left {
+    top: -5%;
+    left: -10%;
+}
+.block-right {
+    top: 30%;
+    left: 78%;
+}
+.central-block {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 50%
+}
+footer {
+    background: #292928ce;
+}
+.entral-block > .header-of-part {
+    width: 100%;
+    background: #292928ce;
 }

@@ -32,14 +32,19 @@
           </li>
         </ul>
       </nav>
+      <h1>CV Tatsiana Shuniborova</h1>
     </header>
     <main>
       <aside class="float-left">
-        <div class="photo"></div>
-        <h2>Tatsiana Shuniborova</h2>
-        <fieldset>
+        <div class="photo-person">
+          <div class="block-under-photo block-left"></div>
+          <div class="block-under-photo block-right"></div>
+          <div class="photo"></div>
+        </div>
+
+        <fieldset class="float-block">
           <legend>
-            <h4 id="contact" class="header-of-part">Contact information:</h4>
+            <h4 id="contact" class="header-of-part">Contact information</h4>
           </legend>
 
           <ul>
@@ -67,9 +72,9 @@
             </li>
           </ul>
         </fieldset>
-        <fieldset>
+        <fieldset class="float-block">
           <legend>
-            <h4 id="skills" class="header-of-part">Skills:</h4>
+            <h4 id="skills" class="header-of-part">Skills</h4>
           </legend>
 
           <ul>
@@ -86,7 +91,7 @@
             <li>Git (Basic)</li>
           </ul>
         </fieldset>
-        <fieldset>
+        <fieldset class="float-block">
           <legend>
             <h4 id="language" class="header-of-part">Language</h4>
           </legend>
@@ -97,7 +102,7 @@
             <li>Belarussian (native)</li>
           </ul>
         </fieldset>
-        <fieldset>
+        <fieldset class="float-block">
           <legend>
             <h4 id="education" class="header-of-part">Education</h4>
           </legend>
@@ -114,33 +119,34 @@
       </aside>
 
       <section class="central-block">
-        <h4 id="about-me" class="header-of-part">About me</h4>
-        <p>
-          My name is Tatsiana Shuniborova. I am from Minsk, Belarus. I graduated
-          Institute of business of BSU on specialty web-design in september
-          2021. I learned some languages of programming such as: HTML5, CSS3,
-          JavaScript, php. On the lessons of JavaScript we learned native
-          JavaScript, jQuery and some features of animation. I studied some
-          graphic programs such as: Photoshop, corel, adobe animation and 3ds
-          max. When i studied in university i did the project for organization
-          of certification and standartization. I did the project on CMS Joomla
-          and did some features on JS. In project i realised a few pages with
-          information about organization, navigation on this site and form of
-          registration. I learned English a few years ago, and now I am learning
-          this language again. I graduated some curses of English as: elementary
-          and pre-intermediate levels. I like to study and learn something new.
-          I like to work and see the results of my work. I have good
-          interpersonal skills and very willing to learn and develop new skills.
-          I am reliable and dependable and often seek new responsibilities
-          within a wide range of employment areas. I don't stop in my
-          development. I am always searching new usefull information and trying
-          to use it.
-        </p>
-      </section>
-
-      <section>
-        <h4 id="code-example" class="header-of-part">Example code:</h4>
-        <pre>
+        <h2>Tatsiana Shuniborova</h2>
+        <div class="block-about">
+          <h4 id="about-me" class="header-of-part">About me</h4>
+          <p>
+            My name is Tatsiana Shuniborova. I am from Minsk, Belarus. I
+            graduated Institute of business of BSU on specialty web-design in
+            september 2021. I learned some languages of programming such as:
+            HTML5, CSS3, JavaScript, php. On the lessons of JavaScript we
+            learned native JavaScript, jQuery and some features of animation. I
+            studied some graphic programs such as: Photoshop, corel, adobe
+            animation and 3ds max. When i studied in university i did the
+            project for organization of certification and standartization. I did
+            the project on CMS Joomla and did some features on JS. In project i
+            realised a few pages with information about organization, navigation
+            on this site and form of registration. I learned English a few years
+            ago, and now I am learning this language again. I graduated some
+            curses of English as: elementary and pre-intermediate levels. I like
+            to study and learn something new. I like to work and see the results
+            of my work. I have good interpersonal skills and very willing to
+            learn and develop new skills. I am reliable and dependable and often
+            seek new responsibilities within a wide range of employment areas. I
+            don't stop in my development. I am always searching new usefull
+            information and trying to use it.
+          </p>
+        </div>
+        <div class="code-block">
+          <h4 id="code-example" class="header-of-part">Example code:</h4>
+          <pre>
           <code>
           _//счетчик  цифр на 2 странице_
           const timeCount = 10000,
@@ -218,16 +224,18 @@
           }
           </code>
         </pre>
+        </div>
       </section>
     </main>
     <footer>
-      <a href="https://rs.school/js/"
-        ><img
+      <a href="https://rs.school/js/">
+        <img
           src="https://rs.school/images/rs_school_js.svg"
           alt="rsschool"
           width="50"
           height="50"
-      /></a>
+        />
+      </a>
     </footer>
   </body>
 </html>
