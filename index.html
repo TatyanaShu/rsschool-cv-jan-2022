@@ -57,7 +57,7 @@
             </li>
             <li>
               E-mail:
-              <a href="mailto: tashu529@gmail.com">tashu529@gmail.com</a>
+              <a href="mailto:tashu529@gmail.com">tashu529@gmail.com</a>
             </li>
             <li>
               Telegram:
@@ -111,7 +111,6 @@
           </legend>
 
           <ul>
-            University:
             <li>Institute of Business of BSU, web-design 2020-2021</li>
             <li>
               Belarussian State Tecnologycal University, engineer of
@@ -151,19 +150,22 @@
           <h4 id="code-example" class="header-of-part">Example code:</h4>
           <pre>
           <code>
-          _//счетчик  цифр на 2 странице_
+          //счетчик  цифр на 2 странице
+
           const timeCount = 10000,
             step = 20;
-          function outNum(num, elem) {
+          function outNum (num, elem) {
             let numb = document.querySelector("#" + elem);
-            n = 0;
+            let n = 0;
             let timeView = Math.round(timeCount / (num / step));
             let interval = setInterval(() => {
-              n<num? (n += step): clearInterval(interval);
+              n &lt; num ? (n += step): clearInterval(interval);
               numb.innerHTML = n;
             }, timeView);
           }
-          _// валидация формы регистрации_
+        </code>
+        <code>
+          //валидация формы регистрации
           function validate() {
             let errList=document.querySelectorAll ("span");
             let userName=document.getElementById('userName');
